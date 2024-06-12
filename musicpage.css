@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.music-page-bg {
+    background-color: #03174c;
+    height: 100vh;
+}
+
+.music-header-bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    height: 40vh;
+    background-size: cover;
+    padding: 30px;
+}
+
+.music-heading {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 28px;
+}
+
+.music-desc {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.night-island-card {
+    padding: 30px;
+}
+
+.night-island-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    height: 40vh;
+    width: 80vh;
+    margin-bottom: 10px;
+}
+
+.night-island-card-heading {
+    font-size: 32px;
+    font-family: "Bree Serif";
+    color: #ffe7bf;
+}
+
+.button {
+    background-color: #8e97fd;
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 14px;
+    border-radius: 38px;
+    border-width: 0px;
+    height: 30px;
+    width: 100px;
+}
+
+.music-details-bg-container {
+    background-color: #03174c;
+}
+
+.music-details-header-img {
+    width: 100vw;
+}
+
+.music-details-container {
+    padding: 20px;
+}
+
+.music-details-text {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 14px;
+}
+
+.related-music-heading {
+    color: white;
+    font-family: "Bree Serif";
+    font-size: 18px;
+}
+
+.related-music-card {
+    margin-right: 10px;
+}
+
+.related-music-img {
+    width: 40vw;
+    margin-bottom: 3px;
+}
+
+.related-music-name {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
