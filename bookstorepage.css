@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bookstore-page-bg {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 107vh;
+    width: 100vw;
+}
+
+.hp-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+.hp-top-card {
+    background-color: #e6f6ff;
+    height: 33vh;
+    width: 88vw;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.apj-img {
+    height: 176px;
+    width: 130px;
+}
+
+.book1-details {
+    font-family: "Bree Serif";
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+.apj-img-head {
+    color: #183b56;
+    font-size: 15px;
+}
+
+.apj-img-para {
+    color: #06070d;
+    font-size: 13px;
+}
+
+.apj-img-auth {
+    color: #9aa5b1;
+    font-size: 10px;
+}
+
+.read-now {
+    font-size: 11px;
+    font-family: "Roboto";
+    border-width: 0px;
+    color: #ffffff;
+}
+
+.other-book-heading {
+    color: white;
+    font-size: 20px;
+    font-family: "Bree Serif";
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.chetan-bhagat-img {
+    height: 120px;
+    width: 80px;
+    margin-left: 20px;
+}
+
+.Recommended-books {
+    margin-left: 10px;
+}
+
+.bhagat-heading {
+    font-size: 15px;
+    color: white;
+    font-family: "Bree Serif";
+}
+
+.bhagat-para {
+    font-size: 12px;
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+}
+
+.last-icon {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.details-page-bg {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 110vh;
+    width: 100vw;
+}
+
+.details-pg-container {
+    text-align: center;
+    padding: 10px;
+}
+
+.details-page-img {
+    height: 290px;
+    width: 200px;
+}
+
+.dtlspg-topsec-heading {
+    font-size: 27px;
+    color: white;
+    font-family: "Bree Serif";
+    text-align: center;
+}
+
+.dtlspg-topsec-para {
+    font-size: 13px;
+    color: #9aa5b1;
+    font-family: "Bree Serif";
+    text-align: center;
+
+}
+
+.short-reviewof-book {
+    font-size: 11px;
+    color: #e4e7eb;
+    font-family: "Bree Serif";
+    text-align: left;
+}
+
+.back-button {
+    font-size: 13px;
+}
+
+.buy-now-button {
+    font-size: 13px;
+}
