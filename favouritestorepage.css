@@ -1,0 +1,57 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.store-page-bg {
+    background-color: #894bca;
+    background-size: cover;
+    height: 100vh;
+}
+
+.main-heading {
+    font-size: 25px;
+    padding: 30px;
+    color: white;
+    font-family: "Bree Serif";
+}
+
+.store-img {
+    height: 170px;
+    width: 150px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.card-container {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 70vh;
+    background-color: white;
+    background-size: cover;
+
+}
+
+.card-heading {
+    color: #f780c3;
+    font-weight: bold;
+    padding: 30px;
+    font-size: 17;
+}
+
+.logo {
+    height: 45px;
+    width: 45px;
+    margin-left: 30px;
+}
+
+.store-heading {
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+.store-para {
+    font-size: 11px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #7b8794;
+}
